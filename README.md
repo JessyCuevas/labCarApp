@@ -1,6 +1,6 @@
 # LabCar App 
 
-## Desarrollado para [Laboratoria]
+Desarrollado para [Laboratoria]
  
 
 ![readme-1.png](assets/images/readme-1.png)
