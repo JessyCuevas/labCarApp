@@ -2,8 +2,5 @@
 
 Desarrollado para [Laboratoria]
  
+![readme-2](https://user-images.githubusercontent.com/32941215/38830758-ea05f74c-4182-11e8-9a29-4a835dbb75c5.png)
 
-![readme-1.png](assets/images/readme-1.png)
-
-https://jessycuevas.github.io/labcar/
-https://user-images.githubusercontent.com/32941215/38706982-ed871cd6-3e74-11e8-8bd2-f0f7caa207df.png
